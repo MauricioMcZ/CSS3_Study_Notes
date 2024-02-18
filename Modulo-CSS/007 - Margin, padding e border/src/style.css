@@ -1,0 +1,14 @@
+p {
+    margin: 30px 15px; /* Espaçamento entre elementos */
+    padding: 20px 9px 19px 3px; /* Espaçamento dentro do elemento */
+    background-color: aquamarine;
+
+    border: 4px double orange;
+}
+
+h1 {
+    border-style: solid;
+    border-width: 10px;
+
+    border-color: green orange aqua bisque;
+}

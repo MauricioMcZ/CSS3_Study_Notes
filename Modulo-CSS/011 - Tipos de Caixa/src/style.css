@@ -1,0 +1,9 @@
+span {
+    color: rgb(255, 0, 0);
+
+    background-color: aquamarine;
+
+    display: block;
+    height: 200px;
+    width: 200px;
+}
